@@ -1,6 +1,22 @@
 body{
 	font-family: 'Lato', sans-serif;
 	padding: 0 0 0 0;
+	height: 100%;
+}
+
+#wrap {
+  min-height: 100%;
+  height: auto;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+
+/* Set the fixed height of the footer here */
+#footer {
+  height: 60px;
+  background-color: #3f51b5;
 }
 
 .navbar{
@@ -52,6 +68,7 @@ a:hover{
 
 .sample{
 	color: white;
+	position: relative;
 	display: inline-block;
 	padding: 10px 10px 10px 10px;
 	font-size: 1.25em;
@@ -102,4 +119,8 @@ a:hover{
 
 hr{
 	border-top: 1px solid black;
+}
+
+.footer{
+	padding: 40px;
 }
