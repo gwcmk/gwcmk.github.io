@@ -66,6 +66,10 @@ a:hover{
 	margin: 0 0 0 0;
 }
 
+.song{
+	height: 100%;
+}
+
 .sample{
 	color: white;
 	position: relative;
