@@ -159,6 +159,12 @@ h2.intro strong{
 	margin-left: 1em;
 }
 
+/* contact page */
+
+.contact{
+	width: 60%;
+}
+
 /* footer */
 
 footer{
