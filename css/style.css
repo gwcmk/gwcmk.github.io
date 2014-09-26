@@ -124,6 +124,7 @@ h2.intro strong{
 
 .intro-button{
 	font-size: 1.333em;
+	color: #777;
 	border: 1px solid #dddddd;
 	-webkit-transition:border 0.5s, color 0.5s, background 0.5s;
 	transition:border 0.5s, color 0.5s, background 0.5s;
