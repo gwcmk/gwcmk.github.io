@@ -198,6 +198,24 @@ footer div{
 	color: #00aced;
 }
 
+@media only screen and (max-width : 768px) {
+	body{
+		font-size: 14px;
+	}
 
+	svg{
+		display: none;
+	}
+}
+
+@media only screen and (max-width : 480px) {
+	body{
+		font-size: 10px;
+	}
+
+	svg{
+		display: none;
+	}
+}
 
 
