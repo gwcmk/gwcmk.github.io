@@ -5,6 +5,10 @@ body{
 	color: #777;
 }
 
+a{
+	color: #520063;
+}
+
 a:-webkit-any-link{
 	text-decoration: none;
 }
@@ -150,10 +154,6 @@ h2.intro strong{
 	border: 1px solid #dddddd;
 	margin-top: 10px;
 	margin-bottom: 10px;
-}
-
-.work a{
-	color: #520063;
 }
 
 .work-details{
