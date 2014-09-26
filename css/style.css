@@ -170,6 +170,7 @@ h2.intro strong{
 
 footer{
 	margin-top: 70px;
+	margin-bottom: 20px;
 }
 
 footer div{
@@ -234,7 +235,7 @@ footer div{
 	}
 
 	.intro-button{
-		font-size: 2em;
+		font-size: 1.666em;
 	}
 
 	.work{

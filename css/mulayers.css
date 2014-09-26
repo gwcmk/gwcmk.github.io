@@ -117,12 +117,15 @@ a:hover{
 
 .song-details h3 span,
 .item-details h3 span{
-	outline: 1px solid white;
 	padding: 0.5em;
 }
 
+.song-details{
+	margin-bottom: 0.5em;
+}
+
 hr{
-	border-top: 1px solid black;
+	border-top: 1px solid white;
 }
 
 .footer{
