@@ -152,6 +152,7 @@ footer{
 
   .landing-intro h1{
     text-align: center;
+    font-size: 2em;
     margin-bottom: 1em;
   }
 
@@ -165,6 +166,10 @@ footer{
   .intro{
     min-height: 100%;
     background-color: #000;
+  }
+
+  .landing-about{
+    width: 95%;
   }
 
   .landing-about p{
