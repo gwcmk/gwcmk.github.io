@@ -4,39 +4,16 @@ body{
 	height: 100%;
 }
 
-#wrap {
-  min-height: 100%;
-  height: auto;
-  /* Negative indent footer by its height */
-  margin: 0 auto -60px;
-  /* Pad bottom by footer height */
-  padding: 0 0 60px;
-}
-
-/* Set the fixed height of the footer here */
-#footer {
-  height: 60px;
-  background-color: #3f51b5;
-}
-
 .navbar{
-	display: none;
+	margin-bottom: 0;
+	background-color: #212121;
+	border: 1px solid transparent;
+	border-radius: 0px;
 }
 
-a{
-	color: inherit;
-	font-style: italic;
-}
-
-a:hover{
-	color: inherit;
-}
-
-.notice{
-	display: none;
-	background-color: #3f51b5;
-	color: white;
-	margin: 0;
+.navbar a{
+  color: #fff!important;
+  text-decoration: none!important;
 }
 
 .embed-video div#outerWidgetContainer{
@@ -50,15 +27,15 @@ a:hover{
 }
 
 .white{
-	color: #3f51b5;
+	color: #000;
 }
 
-.blue{
-	background-color: #3f51b5;
+.black{
+	background-color: #212121;
 	color: white;
 }
 
-.blue hr{
+.black hr{
 	border-top: 1px solid white;
 }
 
@@ -75,8 +52,8 @@ a:hover{
 	position: relative;
 	display: inline-block;
 	padding: 10px 10px 10px 10px;
-	font-size: 1.25em;
-	background-color: #3f51b5;
+	font-size: 1em;
+	background-color: #212121;
 	transition: all 2s;
 	-webkit-border-radius: 5px 5px 5px 5px; 
 	-moz-border-radius: 5px 5px 5px 5px;
