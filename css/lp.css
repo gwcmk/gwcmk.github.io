@@ -146,7 +146,7 @@ footer{
 
 @media only screen and (max-width : 480px) {
   video{
-    min-width: 0; 
+    min-width: 100%; 
     min-height: 0;
   }
 }
