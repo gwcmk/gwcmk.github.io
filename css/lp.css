@@ -169,13 +169,15 @@ footer{
   }
 
   .landing-about{
-    width: 95%;
-    margin-bottom: 2em;
-    min-height: 125%;
+    width: 90%;
   }
 
   .landing-about p{
     margin-bottom: 1.5em;
+  }
+
+  footer{
+    visibility: hidden;
   }
 }
 
